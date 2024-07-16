@@ -18,7 +18,10 @@
 
  - Unity, ML/DL 등 자율 스터디 진행
 
- - 컨퍼런스 및 학회 참석
+ - 격주 1회 세미나 개최
 
+ - 종강 기간 CPU 데이 개최 및 프로젝트 결과 발표
+
+ - 컨퍼런스 및 학회 참석
  </samp>
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=457D58)
