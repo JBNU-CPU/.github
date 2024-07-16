@@ -13,6 +13,12 @@
 <br/>
 <br/>  
 <br/>  
+<p align="center">
+ <samp> - 매주 1회 프로그래밍 언어 기본 스터디(C언어, Python) 진행
 
+ - Unity, ML/DL 등 자율 스터디 진행
 
+ - 컨퍼런스 및 학회 참석
+
+ </samp>
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=457D58)
