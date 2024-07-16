@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=457D58&text=JEONGMIN&height=200&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=457D58&height=200&fontSize=90&fontColor=ffffff)
 
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=JBNU%20CPU&fontSize=70&color=0:457D58,100:588beb&stroke=457D58)
 
