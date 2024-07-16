@@ -12,10 +12,15 @@
   </samp>
 <br/>
 <br/>  
-<br/>  
-  - 매주 1회 프로그래밍 언어 기본 스터디(C언어, Python) 진행
+<br/>
+
+<p align="left">
+  <samp>
+     - 매주 1회 프로그래밍 언어 기본 스터디(C언어, Python) 진행
 <br/>  
    - Unity, ML/DL 등 자율 스터디 진행
+  </samp>
+ 
 <br/>  
    - 격주 1회 세미나 개최
 <br/>  
