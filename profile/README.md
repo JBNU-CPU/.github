@@ -15,7 +15,7 @@
 <br/>  
 <br/>
 
-## CPU CURRICULUM
+## CPU COURSE
 <p align="left">
   <samp>
      - 매주 1회 프로그래밍 언어 기본 스터디(C언어, Python) 진행
